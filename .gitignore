@@ -1,0 +1,17 @@
+# SAS temporary files
+*.log
+*.lst
+
+# Backup files
+*.bak
+*.tmp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
